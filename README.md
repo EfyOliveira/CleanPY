@@ -33,5 +33,5 @@ git clone https://github.com/EfyOliveira/CleanPY
 cd ClearPy
 ```
 
-## OBS - ainda em desenvolvimento 
+## OBS - ainda em desenvolvimento ( Ultima atualização 14/02/2024 )
 
